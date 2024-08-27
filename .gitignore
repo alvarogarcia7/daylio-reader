@@ -57,3 +57,7 @@ coverage.xml
 
 # Pytest
 .pytest_cache
+
+data/
+database.db
+*.db
